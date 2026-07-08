@@ -24,9 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="imgs/784bf0523a4884a814ca14e22f910293e.png" alt="智能航线" width="45%">
-  &nbsp;
-  <img src="imgs/32419109361a24b0d3cf2ef48095191b.png" alt="自定义飞行区" width="45%"><br>
+  <img src="imgs/32419109361a24b0d3cf2ef48095191b.png" alt="自定义飞行区" width="90%"><br>
   <sub>智能航线与飞行区 · AI 算法配置、作业区 / 禁飞区管理</sub>
 </p>
 
